@@ -2,22 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Ali Moumen.</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Ali Moumen.</description>
     <image>
       <title>Ali Moumen.</title>
       <url>http://localhost:1313/me.jpg</url>
       <link>http://localhost:1313/me.jpg</link>
+=======
+    <link>https://blog.ali-moumen.tech/posts/</link>
+    <description>Recent content in Posts on Ali Moumen.</description>
+    <image>
+      <title>Ali Moumen.</title>
+      <url>https://blog.ali-moumen.tech/me.jpg</url>
+      <link>https://blog.ali-moumen.tech/me.jpg</link>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 May 2026 20:04:03 +0100</lastBuildDate>
+<<<<<<< HEAD
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MPC - P3</title>
       <link>http://localhost:1313/posts/mpc-3/</link>
       <pubDate>Wed, 13 May 2026 20:04:03 +0100</pubDate>
       <guid>http://localhost:1313/posts/mpc-3/</guid>
+=======
+    <atom:link href="https://blog.ali-moumen.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPC - P3</title>
+      <link>https://blog.ali-moumen.tech/posts/mpc-3/</link>
+      <pubDate>Wed, 13 May 2026 20:04:03 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/mpc-3/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;Woah! Long time no see, readers!&lt;/p&gt;
 &lt;p&gt;I really am sorry for this long, long stop, I kind of got caught in the middle of university exams, work, and a bunch of other things. Additionally, my SSD failed and&amp;hellip;.came back to life, I think.&lt;/p&gt;
 &lt;h5 id=&#34;western-digital-is-totally-to-blame-for-that-one&#34;&gt;(Western Digital is totally to blame for that one).&lt;/h5&gt;
@@ -25,9 +43,15 @@
     </item>
     <item>
       <title>MPC - P2</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/mpc-2/</link>
       <pubDate>Sun, 01 Feb 2026 14:48:06 +0100</pubDate>
       <guid>http://localhost:1313/posts/mpc-2/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/mpc-2/</link>
+      <pubDate>Sun, 01 Feb 2026 14:48:06 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/mpc-2/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;h1 id=&#34;section-1-setup&#34;&gt;Section 1: Setup.&lt;/h1&gt;
 &lt;p&gt;Before we get into writing our lovely, juicy code. We need to set our programming environment up so that we have everything we need to write, run, and test our code properly. The setup process will not be explained much in detail as it is assumed that you have some basic knowledge of how to use a computer (as specified in the previous post).&lt;/p&gt;
 &lt;h3 id=&#34;11-the-code-editor&#34;&gt;1.1: The code editor.&lt;/h3&gt;
@@ -35,9 +59,15 @@
     </item>
     <item>
       <title>Malevolent Programming Course.</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/malevolent-programming-course/</link>
       <pubDate>Tue, 27 Jan 2026 15:18:45 +0100</pubDate>
       <guid>http://localhost:1313/posts/malevolent-programming-course/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/malevolent-programming-course/</link>
+      <pubDate>Tue, 27 Jan 2026 15:18:45 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/malevolent-programming-course/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;In the lovely vibe and energy of my 18th birthday (🥳🥳🥳). I have decided to start writing a programming course. Something to help beginner programmers kickstart their journey and get a taste of what programming feels like.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Introducing:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The Malevolent Programming Course (MPC - not to be confused with &amp;ldquo;NPC&amp;rdquo;).&lt;/strong&gt;&lt;/p&gt;
@@ -45,34 +75,58 @@
     </item>
     <item>
       <title>Albinism</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/albinism/</link>
       <pubDate>Fri, 23 Jan 2026 17:35:10 +0100</pubDate>
       <guid>http://localhost:1313/posts/albinism/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/albinism/</link>
+      <pubDate>Fri, 23 Jan 2026 17:35:10 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/albinism/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;&lt;strong&gt;Picture this:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;You&amp;rsquo;re walking down the street, hands in pockets, hoodie on. Simply trying to get to point B without slipping down a puddle (the rain is insane here). A kid, maybe nine or ten years old, points at you and asks his mom &amp;ldquo;Mommy, look! why is he all white?!&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;This, my endeared reader, is a very normal situation for me. I&amp;rsquo;d usually just smile to the kid and his mom and then proceed to trip as my eyes measure the distance to the sidewalk wrong. Mainly because I had taken off my glasses due to the rain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Writer&#39;s Syndrome.</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/writers-syndrome/</link>
       <pubDate>Wed, 21 Jan 2026 21:13:33 +0100</pubDate>
       <guid>http://localhost:1313/posts/writers-syndrome/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/writers-syndrome/</link>
+      <pubDate>Wed, 21 Jan 2026 21:13:33 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/writers-syndrome/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;Creative writing is an interesting profession, or hobby, depending on how you approach. You have many ideas and, characters and worlds on one hand, and then you have blank pages on the other, waiting for you to translate your thoughts to them.&lt;/p&gt;
 &lt;p&gt;Whether you write fantasy, fiction (with all of its subgenres), romance, horror or a combination of all of those and more. Writers have many characteristics that specify their personalities which are derived from their artistic process. I call the combination of traits specifying a certain writer &lt;em&gt;Writer&amp;rsquo;s Syndrome&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Machine Learning Project.</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/machine-learning-project/</link>
       <pubDate>Thu, 15 Jan 2026 20:36:36 +0100</pubDate>
       <guid>http://localhost:1313/posts/machine-learning-project/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/machine-learning-project/</link>
+      <pubDate>Thu, 15 Jan 2026 20:36:36 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/machine-learning-project/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;I am quite fairly interested in machine learning and deep learning, while I really suck at the latter and love the former more. Both of them are very cool in my eyes. Such a beautiful mix of math, logic, and programming.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve worked on many projects in both fields. I made CNNs that were supposed to distinguish between squares and circles, cats and dogs just to name a few. Well, these ones specifically failed miserably to do their job.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Education Systems and Writing</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/posts/education-systems-and-writing/</link>
       <pubDate>Wed, 14 Jan 2026 16:47:04 +0100</pubDate>
       <guid>http://localhost:1313/posts/education-systems-and-writing/</guid>
+=======
+      <link>https://blog.ali-moumen.tech/posts/education-systems-and-writing/</link>
+      <pubDate>Wed, 14 Jan 2026 16:47:04 +0100</pubDate>
+      <guid>https://blog.ali-moumen.tech/posts/education-systems-and-writing/</guid>
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
       <description>&lt;p&gt;The thought of schools and education systems making my written works as mandatory school material will forever haunt me. It is eternal fucking damnation.&lt;/p&gt;
 &lt;p&gt;To be frank. Most of my work is essentially anti-institutional and no school will have a single clue about how to incorporate it in an educational manner, but if someone manages to do it. I imagine everything I have ever made getting absolutely butchered by teachers and professors.&lt;/p&gt;</description>
     </item>

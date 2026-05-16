@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 Sitemap: http://localhost:1313/sitemap.xml
+=======
+Sitemap: https://blog.ali-moumen.tech/sitemap.xml
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266

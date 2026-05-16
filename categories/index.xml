@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Ali Moumen.</title>
+<<<<<<< HEAD
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Ali Moumen.</description>
     <image>
@@ -12,5 +13,17 @@
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <link>https://blog.ali-moumen.tech/categories/</link>
+    <description>Recent content in Categories on Ali Moumen.</description>
+    <image>
+      <title>Ali Moumen.</title>
+      <url>https://blog.ali-moumen.tech/me.jpg</url>
+      <link>https://blog.ali-moumen.tech/me.jpg</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="https://blog.ali-moumen.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 3869458c2243771c44efa508dc84ab4379973266
   </channel>
 </rss>
