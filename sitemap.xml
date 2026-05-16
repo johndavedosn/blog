@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-05-13T20:04:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mpc-3/</loc>
+    <lastmod>2026-05-13T20:04:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-13T20:04:03+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mpc-2/</loc>
+    <lastmod>2026-02-01T14:48:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/malevolent-programming-course/</loc>
+    <lastmod>2026-01-27T15:18:45+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/albinism/</loc>
+    <lastmod>2026-01-23T17:35:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/writers-syndrome/</loc>
+    <lastmod>2026-01-21T21:13:33+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/machine-learning-project/</loc>
+    <lastmod>2026-01-15T20:36:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/education-systems-and-writing/</loc>
+    <lastmod>2026-01-14T16:47:04+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>
