@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.ali-moumen.tech/</loc>
     <lastmod>2026-06-07T01:14:48+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/</loc>
     <lastmod>2026-06-07T01:14:48+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wtf-is-a-pointer/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/wtf-is-a-pointer/</loc>
     <lastmod>2026-06-07T01:14:48+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mpc-3/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/mpc-3/</loc>
     <lastmod>2026-05-13T20:04:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mpc-2/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/mpc-2/</loc>
     <lastmod>2026-02-01T14:48:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/malevolent-programming-course/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/malevolent-programming-course/</loc>
     <lastmod>2026-01-27T15:18:45+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/albinism/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/albinism/</loc>
     <lastmod>2026-01-23T17:35:10+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/writers-syndrome/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/writers-syndrome/</loc>
     <lastmod>2026-01-21T21:13:33+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/machine-learning-project/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/machine-learning-project/</loc>
     <lastmod>2026-01-15T20:36:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/education-systems-and-writing/</loc>
+    <loc>https://blog.ali-moumen.tech/posts/education-systems-and-writing/</loc>
     <lastmod>2026-01-14T16:47:04+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.ali-moumen.tech/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.ali-moumen.tech/tags/</loc>
   </url>
 </urlset>
